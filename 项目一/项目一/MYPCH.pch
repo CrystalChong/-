@@ -1,0 +1,13 @@
+//
+//  MYPCH.pch
+//  项目一
+//
+//  Created by Crystal on 16/7/13.
+//  Copyright © 2016年 wuxianedu. All rights reserved.
+//
+
+#ifndef MYPCH_pch
+#define MYPCH_pch
+#import "Coment.h"//最好不要定义太多的宏和引入太多文件(他会往每一个文件里面添加同样的代码);
+
+#endif
